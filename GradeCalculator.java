@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		String name;
-	    double average;
+	 double average;
 		int grade1;
 		int grade2;
 		int grade3;
